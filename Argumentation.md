@@ -1,0 +1,1 @@
+The use of [[debate]] to achieve [[goals]], most commonly the [[convincing]] of the opponent or 3rd parties
