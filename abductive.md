@@ -1,0 +1,1 @@
+An [[arguments | argument]] is abductive if it (i cant remember :))

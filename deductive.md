@@ -1,0 +1,1 @@
+An [[arguments | argument]] is deductive if it (i cant remember :))

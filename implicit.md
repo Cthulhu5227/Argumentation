@@ -1,0 +1,1 @@
+An [[arguments | argument]] is implicit if it proves something is probably true 

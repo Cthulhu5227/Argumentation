@@ -167,15 +167,20 @@
   },
   "active": "b93ad4192e0f8aaa",
   "lastOpenFiles": [
-    "conclusions.md",
-    "valid.md",
-    "sound.md",
+    "inductive.md",
     "arguments.md",
+    "conclusions.md",
+    "deductive.md",
+    "abductive.md",
     "premises.md",
-    "README.md",
-    "debate.md",
-    "concluison.md",
+    "implicit.md",
+    "sound.md",
+    "explicit.md",
     "Argumentation.md",
+    "valid.md",
+    "debate.md",
+    "README.md",
+    "concluison.md",
     "Welcome.md"
   ]
 }
