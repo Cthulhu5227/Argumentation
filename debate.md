@@ -1,1 +1,1 @@
-The act of presenting [[arguments]] in a systematic manner. 
+The act of presenting [[Arguments]] in a systematic manner. 

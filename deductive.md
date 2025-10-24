@@ -1,1 +1,1 @@
-An [[arguments | argument]] is deductive if it (i cant remember :))
+An [[Arguments| argument]] is deductive if it (i cant remember :))
