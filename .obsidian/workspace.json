@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arguments.md",
+                "file": "Statistical Collection & Interpretation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arguments"
+              "title": "Statistical Collection & Interpretation"
             }
           }
         ],
@@ -252,28 +252,28 @@
   },
   "active": "38cfb72cd376640c",
   "lastOpenFiles": [
-    "debate.md",
-    "Arguments.md",
-    "inductive.md",
     "Weak Spot Analysis.md",
-    "Argumentation.md",
-    "Argumentative Writing Support.md",
+    "valid.md",
+    "Statistical Collection & Interpretation.md",
+    "sound.md",
+    "Rhetoric.md",
+    "README.md",
+    "premises.md",
+    "Position Generation.md",
+    "Persuasion Helpers.md",
+    "Online Debate Platforms.md",
+    "inductive.md",
+    "implicit.md",
     "Fallacy Flags.md",
     "explicit.md",
     "deductive.md",
+    "debate.md",
     "conclusions.md",
-    "Argument Mapping.md",
-    "Persuasion Helpers.md",
-    "premises.md",
-    "implicit.md",
-    "Position Generation.md",
-    "Online Debate Platforms.md",
-    "Rhetoric.md",
-    "Statistical Collection & Interpretation.md",
+    "Arguments.md",
+    "Argumentative Writing Support.md",
+    "Argumentation.md",
     "abductive.md",
-    "sound.md",
-    "valid.md",
-    "README.md",
+    "Argument Mapping.md",
     "concluison.md",
     "Welcome.md"
   ]
