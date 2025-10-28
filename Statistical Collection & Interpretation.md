@@ -1,7 +1,9 @@
 
-Graphs are a common method to visually illustrate relationships in the data. The purpose of a graph is to present data that are too numerous or complicated to be described adequately in the text and in less space. Do not, however, use graphs for small amounts of data that could be conveyed succinctly in a sentence. Likewise, do not reiterate the data in the text since it defeats the purpose of using a graph. If the data shows pronounced trends or reveals relations between variables, a graph should be used. If the data doesn't show any significant trend in the evidence, a graph is not the figure of choice.[1]
+Graphing using online or digital media allows for arguments to be better communicated. It is fast and effective, and allows for quick changes to one's graph.  Furthermore, It can help with interpretation of graphs and statistics to help make implicit arguments. 
 
-Graphing using online or digital media allows for arguments to be better communicated. It is fast and effective, and allows for quick changes to ones graph.  ...
+Graphs are an effective way to present data to make an argument.  They display the data in a relational or consumable fashion when data is too numerous to digest individually.  They can be used to convey a paragraph of meaning with a simple picture [1].  Making graphs can help you make your arguments more digestible and understandable for your audience, wither that be your opponent or a 3rd party. Digital media ca help with the creation and modification of these tools. Programs such as Excel, desmos, R and others are commonly used for this purpose. Graphs are an effective tool in argumentation.
+
+
 
 
 Jett
