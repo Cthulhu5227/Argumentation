@@ -8,13 +8,12 @@ Graphs are an effective way to present data to make an [[arguments|argument]].  
 ![[Graphs-and-illustrations_editverse.jpg-1012x1024.png]]
 [2]
 
-Computers and people can also help us interpret data. This can be helpful to [[argumentation]] as a way to create premises/support [[conclusions]]. They can draw [[conclusions]] and communicate those clearly in a debate or normal setting.  This job can be done by people and AI. Each can perform different data analysis on a data set. Humans tend to "rule in" the context of the data and are much better at communicating their findings more clearly. AI tools can draw [[conclusions]] from larger statistical methods but their findings can be harder too understand or make movement on.[6] Help with data interpretation can be used to augment [[argumentation]]. 
+Computers and people can also help us interpret data. This can be helpful to [[argumentation]] as a way to create premises/support [[conclusions]]. They can draw [[conclusions]] and communicate those clearly in a debate or normal setting.  This job can be done by people and AI. Each can perform different data analysis on a data set. Humans tend to "rule in" the context of the data and are much better at communicating their findings more clearly. AI tools can draw [[conclusions]] from larger statistical methods but their findings can be harder too understand or make movement on[6]. Help with data interpretation can be used to augment [[argumentation]]. 
 
 
-Ref:
-[1] https://pmc.ncbi.nlm.nih.gov/articles/PMC4078179/
-[2]excel
-[3]desmos
-[4]R
-[5] https://editverse.com/10-essential-graph-types-every-researcher-should-know/
-[6] humans vs ai
+[1] D. Slutsky, “The Effective Use of Graphs,” BMC Health Services Research, May 2014. [Online]. Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC4078179/
+[2] “Microsoft Excel for the web,” Microsoft, [Online]. Available: https://excel.cloud.microsoft/
+[3] “Desmos — Graphing Calculator,” Desmos Inc., [Online]. Available: https://www.desmos.com/
+[4] “The R Project for Statistical Computing,” The R Foundation, [Online]. Available: https://www.r-project.org/
+[5] T. Freesia, “10 essential graph types every researcher should know,” _EditVerse_, 2025. [Online]. Available: [https://www.editverse.com/10-essential-graph-types-every-researcher-should-know/](https://www.editverse.com/10-essential-graph-types-every-researcher-should-know/)
+[6] P. Sporek and M. Konieczny, “Artificial Intelligence Versus Human Analysis: Interpreting Data in Elderly Fat Reduction Study,” Advances in Integrative Medicine, vol. 12, issue. 1, Mar. 2025. Available: https://www.sciencedirect.com/science/article/pii/S2212958824001666
