@@ -11,10 +11,14 @@
             "id": "b93ad4192e0f8aaa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Statistical Interpretation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statistical Interpretation"
             }
           },
           {
@@ -93,16 +97,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistical Collection & Interpretation.md",
+                "file": "implicit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistical Collection & Interpretation"
+              "title": "implicit"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,29 +253,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "38cfb72cd376640c",
+  "active": "b93ad4192e0f8aaa",
   "lastOpenFiles": [
+    "Argumentation.md",
+    "Argumentative Writing Support.md",
+    "Arguments.md",
+    "conclusions.md",
+    "debate.md",
+    "deductive.md",
+    "explicit.md",
+    "Fallacy Flags.md",
     "Graphs-and-illustrations_editverse.jpg-1012x1024.png",
-    "Weak Spot Analysis.md",
-    "valid.md",
-    "Statistical Collection & Interpretation.md",
-    "sound.md",
-    "Rhetoric.md",
-    "README.md",
+    "Statistical Interpretation.md",
     "premises.md",
     "Position Generation.md",
     "Persuasion Helpers.md",
     "Online Debate Platforms.md",
     "inductive.md",
+    "Rhetoric.md",
+    "README.md",
     "implicit.md",
-    "Fallacy Flags.md",
-    "explicit.md",
-    "deductive.md",
-    "debate.md",
-    "conclusions.md",
-    "Arguments.md",
-    "Argumentative Writing Support.md",
-    "Argumentation.md",
+    "sound.md",
+    "Weak Spot Analysis.md",
+    "valid.md",
     "abductive.md",
     "Argument Mapping.md",
     "concluison.md",
