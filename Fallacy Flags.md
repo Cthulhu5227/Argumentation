@@ -3,7 +3,7 @@ Fallacy flags are computational tools that help users spot flaws in reasoning by
 
 Modern implementations often rely on natural language processing and [[arguments | argument]] mining [1]. Systems such as IBM's Project Debater [2] and ArgumenText [3] can detect structural weakness and claims that lack sufficient support. By handling the detection of such fallacies, it frees the user to focus on more complex aspects of building their arguments. Although these can be great tools, is important to note that fallacy flag systems can also introduce new risks. Algorithms may misinterpret tone, cultural context, or [[Rhetoric|rhetorical]] nuances and overreliance on such systems can lead to blind trust and error. Human reasoning is dependent on context and social dynamics, so it would be difficult for automated systems to completely capture the complexity of arguments. 
 
-
+References:
 
 [1] J. Lawrence, C. Reed, "Argument Mining: A Survey", University of Dundee, UK, Centre for Argument Technology, 2019. https://aclanthology.org/J19-4006.pdf
 
