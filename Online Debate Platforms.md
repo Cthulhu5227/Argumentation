@@ -1,9 +1,7 @@
-Lachlan
 
+Online debate platforms are systems that structure and facilitate argumentative dialogue. These systems augment cognition by helping users organize reasoning, explore opposing views, and visualize the structure of debates [1]. Online [[debate]] platforms transform free-form conversation into structured argument maps, which improves clarity, fairness, and self reflection.
 
-Online debate platforms are systems that structure and facilitate argumentative dialogue. These systems augment cognition by helping users organize reasoning, explore opposing views, and visualize the structure of debates [1]. Online debate platforms transform free-form conversation into structured argument maps, which improves clarity, fairness, and self reflection.
-
-One of the most popular tools in this space is Kialo, which is an online debate platform that structures discussions into a tree of pros and cons.  each claim can be supported or challenged, allowing users to trace reasoning paths and assess the strength of arguments. By breaking complex issues into smaller pieces, Kialo reduces cognitive overload and encourages the user to consider multiple perspectives before forming a conclusion [2].
+One of the most popular tools in this space is Kialo, which is an online [[debate]] platform that structures discussions into a tree of pros and cons.  each claim can be supported or challenged, allowing users to trace reasoning paths and assess the strength of arguments. By breaking complex issues into smaller pieces, Kialo reduces cognitive overload and encourages the user to consider multiple perspectives before forming a conclusion [2].
 
 Arguman is another similar tool which enables users to map debates visually by linking claims that support or contradict each other. The result is an argument network where relationships between ideas become explicit. This structure mirrors concepts such as premises and conclusions to help users see how arguments depend on one another and where reasoning may be weak or unsupported [3].
 
