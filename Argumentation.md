@@ -1,5 +1,6 @@
 
-The use systematic reasoning [1] and [[Debate]] to achieve goals , most commonly the convincing of the opponent or 3rd parties.
+The use systematic reasoning [1] and [[Debate]] to achieve goals, most commonly the convincing of the opponent or 3rd parties.
+
 
 References:
 

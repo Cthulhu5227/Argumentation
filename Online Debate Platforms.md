@@ -7,6 +7,7 @@ Arguman is another similar tool which enables users to map debates visually by l
 
 IBM Project Debater differs from Kialo and Arguman in the sense that it uses artificial intelligence to assist in argumentation. This system listens to a topic, gathers evidence, and generates speeches with supporting arguments and rebuttals. This tool augments human reasoning by generating multiple viewpoints, challenging assumptions, and summarizing complex discussions [4].
 
+
 References:
 
 [1] C. Reed, F. Bex, J. Lawrence, and K. Snaith, “Computational Models of Argumentation and the Internet,” *Philosophy & Technology*, vol. 30, no. 2, pp. 267–282, 2017.  

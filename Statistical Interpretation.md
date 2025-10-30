@@ -1,14 +1,15 @@
 
 Tools that help people understand the context and meanings of statistics. These tools come from a very big issue of the human mind, the inability to accurately understand statistics and probability.  There are several tools to help others understand your point when your point uses statistics or probability. 
 
-Graphing using online or digital media allows for [[arguments]] to be better communicated. It is fast and effective, and allows for quick changes to one's graph.  Furthermore, It can help with interpretation of graphs and statistics to help make [[Implicit]] arguments. 
+Graphing using online or digital media allows for [[Arguments]] to be better communicated. It is fast and effective, and allows for quick changes to one's graph.  Furthermore, It can help with interpretation of graphs and statistics to help make [[Implicit]] arguments. 
 
-Graphs are an effective way to present data to make an [[arguments|argument]].  They display the data in a relational or consumable fashion when data is too numerous to digest individually.  They can be used to convey a paragraph of meaning with a simple picture [1].  Below, there are some examples of graphs commonly used to make an [[arguments|argument]]. Making graphs can help you make your [[arguments]] more digestible and understandable for your audience, wither that be your opponent or a 3rd party. Digital media can help with the creation and modification of these tools. Programs such as Excel[2], desmos[3], R[4] and others are commonly used for this purpose. Graphs are an effective tool in argumentation.
+Graphs are an effective way to present data to make an [[Arguments|argument]].  They display the data in a relational or consumable fashion when data is too numerous to digest individually.  They can be used to convey a paragraph of meaning with a simple picture [1].  Below, there are some examples of graphs commonly used to make an [[Arguments|argument]]. Making graphs can help you make your [[Arguments]] more digestible and understandable for your audience, wither that be your opponent or a 3rd party. Digital media can help with the creation and modification of these tools. Programs such as Excel[2], desmos[3], R[4] and others are commonly used for this purpose. Graphs are an effective tool in argumentation.
 
 ![[Graphs-and-illustrations_editverse.jpg-1012x1024.png]]
 [2]
 
 Computers and people can also help us interpret data. This can be helpful to [[argumentation]] as a way to create premises/support [[Conclusions]]. They can draw [[Conclusions]] and communicate those clearly in a debate or normal setting.  This job can be done by people and AI. Each can perform different data analysis on a data set. Humans tend to "rule in" the context of the data and are much better at communicating their findings more clearly. AI tools can draw [[Conclusions]] from larger statistical methods but their findings can be harder too understand or make movement on[6]. Help with data interpretation can be used to augment [[argumentation]]. 
+
 
 References:
 

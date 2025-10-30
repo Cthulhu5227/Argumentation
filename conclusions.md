@@ -1,7 +1,8 @@
 
-A conclusion is the "therefore" as implied by a list of one or several [[Premises]].
+A conclusion is the "therefore" that follows from one or more [[Premises]].
 
-References:
+
+Reference:
 
 [1]“Conclusion,” Merriam-Webster.com Dictionary, Merriam-Webster, 2025. [Online]. Available: 
 https://www.merriam-webster.com/dictionary/conclusion

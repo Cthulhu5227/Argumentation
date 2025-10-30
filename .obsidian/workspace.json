@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weak Spot Analysis.md",
+                "file": "Premises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weak Spot Analysis"
+              "title": "Premises"
             }
           }
         ]
@@ -171,22 +171,23 @@
   },
   "active": "fcbd885df76b57fd",
   "lastOpenFiles": [
-    "Statistical Interpretation.md",
-    "Rhetoric.md",
-    "Premises.md",
-    "Position Generation.md",
-    "Persuasion Helpers.md",
-    "Online Debate Platforms.md",
     "Implicit.md",
-    "Graphs-and-illustrations_editverse.jpg-1012x1024.png",
     "Explicit.md",
     "Debate.md",
-    "Fallacy Flags.md",
     "Conclusions.md",
     "Arguments.md",
     "Argumentation.md",
-    "Weak Spot Analysis.md",
     "Argumentative Writing Support.md",
+    "Fallacy Flags.md",
+    "Graphs-and-illustrations_editverse.jpg-1012x1024.png",
+    "Online Debate Platforms.md",
+    "Persuasion Helpers.md",
+    "Position Generation.md",
+    "Premises.md",
+    "Rhetoric.md",
+    "Statistical Interpretation.md",
+    "Weak Spot Analysis.md",
+    "Premises.md",
     "2025-10-29.md"
   ]
 }

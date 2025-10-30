@@ -5,6 +5,7 @@ Writing assistants such as Grammarly or ChatGPT are common examples of persuasio
 
 However, persuasive technologies need to be developed with care. While they can improve reasoning and communication, they also have the potential to mislead or bias users if not used responsibly [3]. Designing them with clear ethical limits helps ensure that persuasion helpers strengthen thinking rather than quietly manipulate it.
 
+
 References:
 
 [1] A. B. Y. Lin and A. Tegmark, “AI-Powered Writing Assistants and the Evolution of Cognitive Offloading,” Computers in Human Behavior Reports, vol. 9, 2023.  
